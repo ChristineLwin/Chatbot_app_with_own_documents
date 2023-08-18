@@ -37,7 +37,7 @@ To use the MultiPDF Chat App, follow these steps:
 
 5. Ask questions in natural language about the loaded PDFs using the chat interface.
 
-
+![Chatbot App Demo](./chatbot_app_demo.png)
 
 
 ## License
