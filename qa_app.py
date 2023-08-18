@@ -19,7 +19,7 @@ def get_text_from_docs(docs):
     """
     text_str =""
     for d in docs:
-        text_fpath = "./data/"+d.name
+        text_fpath = "./src_data/"+d.name
         if d.name.endswith(".pdf"):
             doc_reader = PdfReader(text_fpath)
             for page in doc_reader.pages:
